@@ -6,7 +6,7 @@
   "scripts": {
     "test": "electron ."
   },
-  "author": "Dylan Conway",
+  "author": "Dylan Conway and Cooper Runstein",
   "license": "ISC",
   "devDependencies": {
     "electron": "^3.0.12",
