@@ -12,5 +12,8 @@
     "electron": "^3.0.12",
     "electron-packager": "^13.0.1",
     "three-js": "^79.0.0"
+  },
+  "dependencies": {
+    "three": "^0.99.0"
   }
 }
