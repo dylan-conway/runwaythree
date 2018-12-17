@@ -1,0 +1,16 @@
+{
+  "name": "threejs_app",
+  "version": "1.0.0",
+  "description": "3d canvas",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Dylan Conway",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.12",
+    "electron-packager": "^13.0.1",
+    "three-js": "^79.0.0"
+  }
+}
